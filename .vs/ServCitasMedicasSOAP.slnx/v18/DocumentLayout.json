@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROYECTOS PROGRAMACION\\ServCitasMedicasSOAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3902E63-C692-C426-05FF-C1E3EBFDF8EC}|ServCitasMedicasSOAP.csproj|d:\\proyectos programacion\\servcitasmedicassoap\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{B3902E63-C692-C426-05FF-C1E3EBFDF8EC}|ServCitasMedicasSOAP.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3902E63-C692-C426-05FF-C1E3EBFDF8EC}|ServCitasMedicasSOAP.csproj|d:\\proyectos programacion\\servcitasmedicassoap\\services\\citasmedicasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3902E63-C692-C426-05FF-C1E3EBFDF8EC}|ServCitasMedicasSOAP.csproj|solutionrelative:services\\citasmedicasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3902E63-C692-C426-05FF-C1E3EBFDF8EC}|ServCitasMedicasSOAP.csproj|d:\\proyectos programacion\\servcitasmedicassoap\\gitignore 1||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B3902E63-C692-C426-05FF-C1E3EBFDF8EC}|ServCitasMedicasSOAP.csproj|solutionrelative:gitignore 1||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3902E63-C692-C426-05FF-C1E3EBFDF8EC}|ServCitasMedicasSOAP.csproj|d:\\proyectos programacion\\servcitasmedicassoap\\script_bd_citasmedicas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{B3902E63-C692-C426-05FF-C1E3EBFDF8EC}|ServCitasMedicasSOAP.csproj|solutionrelative:script_bd_citasmedicas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3902E63-C692-C426-05FF-C1E3EBFDF8EC}|ServCitasMedicasSOAP.csproj|d:\\proyectos programacion\\servcitasmedicassoap\\services\\icitasmedicasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3902E63-C692-C426-05FF-C1E3EBFDF8EC}|ServCitasMedicasSOAP.csproj|solutionrelative:services\\icitasmedicasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3902E63-C692-C426-05FF-C1E3EBFDF8EC}|ServCitasMedicasSOAP.csproj|d:\\proyectos programacion\\servcitasmedicassoap\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3902E63-C692-C426-05FF-C1E3EBFDF8EC}|ServCitasMedicasSOAP.csproj|solutionrelative:models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3902E63-C692-C426-05FF-C1E3EBFDF8EC}|ServCitasMedicasSOAP.csproj|d:\\proyectos programacion\\servcitasmedicassoap\\data\\citasmedicasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3902E63-C692-C426-05FF-C1E3EBFDF8EC}|ServCitasMedicasSOAP.csproj|solutionrelative:data\\citasmedicasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3902E63-C692-C426-05FF-C1E3EBFDF8EC}|ServCitasMedicasSOAP.csproj|d:\\proyectos programacion\\servcitasmedicassoap\\script_bd_citasmedicas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{B3902E63-C692-C426-05FF-C1E3EBFDF8EC}|ServCitasMedicasSOAP.csproj|solutionrelative:script_bd_citasmedicas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gitignore 1",
+              "DocumentMoniker": "D:\\PROYECTOS PROGRAMACION\\ServCitasMedicasSOAP\\gitignore 1",
+              "RelativeDocumentMoniker": "gitignore 1",
+              "ToolTip": "D:\\PROYECTOS PROGRAMACION\\ServCitasMedicasSOAP\\gitignore 1",
+              "RelativeToolTip": "gitignore 1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-02T00:51:06.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Script_BD_CitasMedicas.sql ",
+              "DocumentMoniker": "D:\\PROYECTOS PROGRAMACION\\ServCitasMedicasSOAP\\Script_BD_CitasMedicas.sql",
+              "RelativeDocumentMoniker": "Script_BD_CitasMedicas.sql",
+              "ToolTip": "D:\\PROYECTOS PROGRAMACION\\ServCitasMedicasSOAP\\Script_BD_CitasMedicas.sql",
+              "RelativeToolTip": "Script_BD_CitasMedicas.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-02T00:45:00.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\PROYECTOS PROGRAMACION\\ServCitasMedicasSOAP\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\PROYECTOS PROGRAMACION\\ServCitasMedicasSOAP\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-08-28T00:37:17.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "D:\\PROYECTOS PROGRAMACION\\ServCitasMedicasSOAP\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Models\\Paciente.cs",
+              "ToolTip": "D:\\PROYECTOS PROGRAMACION\\ServCitasMedicasSOAP\\Models\\Paciente.cs",
+              "RelativeToolTip": "Models\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T00:37:02.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICitasMedicasService.cs",
+              "DocumentMoniker": "D:\\PROYECTOS PROGRAMACION\\ServCitasMedicasSOAP\\Services\\ICitasMedicasService.cs",
+              "RelativeDocumentMoniker": "Services\\ICitasMedicasService.cs",
+              "ToolTip": "D:\\PROYECTOS PROGRAMACION\\ServCitasMedicasSOAP\\Services\\ICitasMedicasService.cs",
+              "RelativeToolTip": "Services\\ICitasMedicasService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T00:36:16.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitasMedicasService.cs",
+              "DocumentMoniker": "D:\\PROYECTOS PROGRAMACION\\ServCitasMedicasSOAP\\Services\\CitasMedicasService.cs",
+              "RelativeDocumentMoniker": "Services\\CitasMedicasService.cs",
+              "ToolTip": "D:\\PROYECTOS PROGRAMACION\\ServCitasMedicasSOAP\\Services\\CitasMedicasService.cs",
+              "RelativeToolTip": "Services\\CitasMedicasService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T00:33:13.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CitasMedicasDBContext.cs",
+              "DocumentMoniker": "D:\\PROYECTOS PROGRAMACION\\ServCitasMedicasSOAP\\Data\\CitasMedicasDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\CitasMedicasDBContext.cs",
+              "ToolTip": "D:\\PROYECTOS PROGRAMACION\\ServCitasMedicasSOAP\\Data\\CitasMedicasDBContext.cs",
+              "RelativeToolTip": "Data\\CitasMedicasDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T23:40:31.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
